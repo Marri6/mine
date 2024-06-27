@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "mission-cholesterol.gl.joinmc.link",
-          "assigned_srv": "mission-cholesterol.gl.joinmc.link",
+          "assigned_domain": "washington-plates.gl.joinmc.link",
+          "assigned_srv": "washington-plates.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "b808107c-708c-4e2e-950d-c4d73318490e",
-          "ip_hostname": "20.ip.gl.ply.gg",
+          "id": "ae73060a-f9ad-4535-96f3-4c5c29e55934",
+          "ip_hostname": "17.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 46306,
-          "port_start": 46305,
+          "port_end": 47468,
+          "port_start": 47467,
           "region": "global",
-          "static_ip4": "147.185.221.20",
-          "tunnel_ip": "2602:fbaf:0:1::14"
+          "static_ip4": "147.185.221.17",
+          "tunnel_ip": "2602:fbaf:0:1::11"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-27T03:22:14.974408Z",
+      "created_at": "2024-06-27T16:55:56.988007Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "4f585cfe-68ab-4d31-96ed-0b87e3ef6859",
+      "id": "fee4cbaf-c92e-4572-9d60-b67b0d0daa34",
       "name": "Minecraft Java",
       "origin": {
         "data": {
