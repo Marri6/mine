@@ -1,84 +1,480 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1724795825919 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801092252 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795828976 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801095322 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795832031 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801110438 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795835086 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801113496 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795838157 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801116560 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795841213 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801131710 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795844266 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801134774 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795847337 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801149885 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795850415 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801152951 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795853485 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801156010 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795856540 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801171127 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795859609 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801174197 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795862662 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801189302 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795865715 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801192380 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795868775 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801195442 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795871828 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1724801198514 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1724795874887 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801213636 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801216700 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801231813 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801234879 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801249975 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801253039 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801256190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801271332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801274396 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801277502 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801292597 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801295681 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801310777 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801313845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801316906 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801332025 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801335088 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801350188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801353250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801368345 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801371407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801374472 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801377540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801380608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801383670 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801398814 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801401893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801404953 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801408017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801423119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801426189 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801441297 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801444353 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801459472 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801462624 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801465697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801480791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801483853 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801486997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801502107 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801505173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801508233 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801523342 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801526407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801541508 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801544585 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801547649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801562788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801565854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801580943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801584009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801599121 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801602379 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801605443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801620547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801623614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801638729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801641799 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801644868 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1724801659982 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801663052 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+washington-plates.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1724801666120 tunnel running, 1 tunnels registered
 
 
 TUNNELS
