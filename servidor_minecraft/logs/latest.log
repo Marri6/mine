@@ -1,0 +1,18 @@
+[00:04:00] [Server thread/INFO]: Loading properties
+[00:04:00] [Server thread/INFO]: Default game type: SURVIVAL
+[00:04:00] [Server thread/INFO]: Generating keypair
+[00:04:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:04:01] [Server thread/INFO]: Using epoll channel type
+[00:04:01] [Server thread/INFO]: Preparing level "world"
+[00:04:01] [Server thread/INFO]: Loaded 488 advancements
+[00:04:01] [Server thread/INFO]: Preparing start region for level 0
+[00:04:02] [Server thread/INFO]: Preparing spawn area: 10%
+[00:04:03] [Server thread/INFO]: Done (2.235s)! For help, type "help" or "?"
+[00:46:49] [Server thread/INFO]: Stopping the server
+[00:46:49] [Server thread/INFO]: Stopping server
+[00:46:49] [Server thread/INFO]: Saving players
+[00:46:49] [Server thread/INFO]: Saving worlds
+[00:46:49] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[00:46:49] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[00:46:49] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[00:46:49] [Server Shutdown Thread/INFO]: Stopping server
